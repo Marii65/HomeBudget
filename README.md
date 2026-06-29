@@ -118,5 +118,5 @@ npm run dev
 *Em desenvolvimento*
 
 ## 👨‍💻 Autor 
-*Desenvolvido por Mari* 
-*Projeto pessoal para estudo de desenvolvimento Full Stack com Java e React.*
+*Desenvolvido por: Mari* 
+*-Projeto pessoal para estudo de desenvolvimento Full Stack com Java e React.*
