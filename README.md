@@ -92,3 +92,31 @@ Na raiz do projeto:
 
 ```bash
 docker compose up --build
+```
+## 🌐 Acesso à aplicação
+```bash
+**Frontend:**  
+http://localhost:5173  
+
+**Backend API:**  
+http://localhost:8080  
+```
+---
+
+## 🖥️ Subir a aplicação de forma manual
+
+**Backend:**
+```bash
+mvn spring-boot:run
+```
+**Frontend**
+```bash
+npm i
+npm run dev
+```
+##📌 Status do Projeto
+*Em desenvolvimento*
+
+##👨‍💻 Autor 
+*Desenvolvido por Mari* 
+*Projeto pessoal para estudo de desenvolvimento Full Stack com Java e React.*
