@@ -74,7 +74,7 @@ homebudget
 │   └── routes
 │
 └── README.md
-
+```
 ## ⚙️ Como Executar o Projeto
 
 ### 📦 Pré-requisitos
