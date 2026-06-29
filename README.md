@@ -114,9 +114,9 @@ mvn spring-boot:run
 npm i
 npm run dev
 ```
-##📌 Status do Projeto
+## 📌 Status do Projeto
 *Em desenvolvimento*
 
-##👨‍💻 Autor 
+## 👨‍💻 Autor 
 *Desenvolvido por Mari* 
 *Projeto pessoal para estudo de desenvolvimento Full Stack com Java e React.*
