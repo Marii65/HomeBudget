@@ -44,25 +44,25 @@ Utilizado para containerização do sistema
 ## 👤 Funcionalidades do Sistema
 
 ---
-### 🔐 Autenticação
+###  Autenticação
 
-### 🏠 Sistema de Famílias
+###  Sistema de Famílias
 
-### 💸 Controle Financeiro Coletivo
+###  Controle Financeiro Coletivo
 
-### 👤 Controle Financeiro Individual
+###  Controle Financeiro Individual
 
-### 📊 Dashboard Financeiro
+###  Dashboard Financeiro
 
-### 🎯 Sistema de Metas
+###  Sistema de Metas
 
-### 🔔 Notificações
+###  Notificações
  
-### 📄 Histórico Financeiro
+###  Histórico Financeiro
 
-### 📤 Exportação de Relatórios
+###  Exportação de Relatórios
 
-### 🎨 UI/UX
+###  UI/UX
 
 ---
 
