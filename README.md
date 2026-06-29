@@ -51,10 +51,8 @@ Utilizado para containerização do sistema
 - Sistema de Metas
 - Notificações
 - Histórico Financeiro
-
--Exportação de Relatórios
-
--UI/UX
+- Exportação de Relatórios
+- UI/UX
 
 ---
 
