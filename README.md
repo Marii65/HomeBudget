@@ -44,71 +44,24 @@ Utilizado para containerização do sistema
 ## 👤 Funcionalidades do Sistema
 
 ### 🔐 Autenticação
-- Cadastro de usuários  
-- Login com JWT  
-- Recuperação de senha (futuro)  
-- Sessão persistente  
-- Username único  
-- Foto de perfil  
-
 ---
-
 ### 🏠 Sistema de Famílias
-- Criação de uma família (casa)  
-- Geração de código de convite  
-- Entrada de membros via código  
-- Administração por um ou mais usuários  
-
 ---
-
 ### 💸 Controle Financeiro Coletivo
-Cada conta coletiva contém:
-
-- Nome da conta  
-- Valor  
-- Data de vencimento  
-- Responsável  
-- Categoria  
-- Status:
-  - Pendente  
-  - Pago  
-  - Atrasado  
-
 ---
-
 ### 👤 Controle Financeiro Individual
-- Cada usuário pode criar suas próprias contas pessoais  
-- Visíveis apenas para o próprio usuário  
-
 ---
-
 ### 📊 Dashboard Financeiro
-- Total do mês  
-- Valor pago  
-- Valor pendente  
-- Gastos por categoria (gráficos)  
-- Próximos vencimentos  
-- Gastos por membro da família  
-
 ---
-
 ### 🎯 Sistema de Metas
-- Em desenvolvimento  
-
+---  
 ### 🔔 Notificações
-- Em desenvolvimento  
-
+---  
 ### 📄 Histórico Financeiro
-- Em desenvolvimento  
-
-### 📤 Exportação de Relatórios
-- Em desenvolvimento  
-
 ---
-
+### 📤 Exportação de Relatórios
+---
 ### 🎨 UI/UX
-- Interface moderna e responsiva  
-
 ---
 
 ## 🏗️ Estrutura do Projeto
@@ -129,3 +82,21 @@ homebudget
 │   └── routes
 │
 └── README.md
+
+## ⚙️ Como Executar o Projeto
+
+### 📦 Pré-requisitos
+- Docker e Docker Compose instalados  
+- *(Opcional)* Node.js 18+ para desenvolvimento local  
+- *(Opcional)* Java 17+ para execução fora do Docker  
+
+Este projeto pode ser executado completamente via Docker, sem necessidade de instalar dependências locais.
+
+---
+
+## 🐳 Subir a aplicação via Docker
+
+Na raiz do projeto:
+
+```bash
+docker compose up --build
